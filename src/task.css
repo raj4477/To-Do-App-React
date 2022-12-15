@@ -1,0 +1,18 @@
+.center{
+    margin-top: 10px;
+    margin-left: 25%;
+/* margin: auto; */
+height: 500px;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.inputClass{
+    margin: 69px;
+    font-family: inherit;
+    font-size: larger;
+    height: 100px;
+    line-height: inherit;
+    padding: 4%;
+}

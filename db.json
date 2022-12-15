@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "882039a5-181e-4c47-9f36-ea16a738e402",
+      "task": "My First Task This is first task"
+    },
+    {
+      "id": "e10cdac0-c524-4ce6-a7f5-730784656645",
+      "task": "Ritik Raj 12"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
